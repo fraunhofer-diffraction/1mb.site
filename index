@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+	<!--
+						_                    _____
+			 /\        | |                  |  __ \
+			/  \   _ __| |_ _   _ _ __ ___  | |  | |
+		       / /\ \ | '__| __| | | | '__/ __| | |  | |
+		      / ____ \| |  | |_| |_| | |  \__ \ | |__| |
+		     /_/    \_\_|   \__|\__,_|_|  |___/ |_____(_)
+
+
+		The code below was written by Arturs Dobrecovs
+		exclusively for 1mbsite as a website template
+
+		https://arturs.site
+		https://twitter.com/derpyscripts
+		https://github.com/derpyscripts
+		
+		
+		1mbsite © 2018 – Made with ❤️ by @DaltonEdwards
+		(https://twitter.com/DaltonEdwards)
+	
+	
+	
+	
+		Icons used in this template are open source,
+		from the "Eva Icons" pack by Akveo. They are
+		available on Github on the following page:
+		https://akveo.github.io/eva-icons
+	
+	
+	
+	
+		This template supports multiple themes!
+		Change the class on the <body> tag to change the
+		site theme
+		
+		Purple/Pink (default)  -> .theme-1
+		Purple/Blue            -> .theme-2
+		Red/Yellow             -> .theme-3
+		Dark Grey              -> .theme-4
+	
+	-->
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=2, width=device-width, viewport-fit=cover">
+		
+		<title>welcome!!!</title>
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:400,600,900" />
+		<link rel="stylesheet" type="text/css" href="https://static.1mb.site/templates/app-landing/styles.css" />
+	</head>
+	<body class="theme-1">
+		<main>
+			<a class="download-btn" href="me.html">
+				
+				a few about me
+			</a>
+			<p><p>
+				<p class="description">If there are any questions about this, or suggestions on how to develop my site, please contact my E-Mail:
+			<p><p class="description">timatimurxan17@gmail.com
+			<p>
+			<img class="logo" src="https://static.1mb.site/templates/app-landing/app-logo-inverse.png" alt="App Name Logo" />
+			
+			<h1 class="heading">WELCOME TO TIMA SITE</h1>
+			<p class="description">you  can find there someting interesting, boring and useful (i have made this because it's my first site!!!)</p>
+		
+			<a class="download-btn" href="https://www.instagram.com">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+				 instagram
+			</a>
+<p>
+			<a class="download-btn" href="song.html">songs
+			        </a>
+			<p><p>
+			<a class="download-btn" href="mushrooms.html">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+				article about mushrooms
+			</a>
+			<p><p>
+			</a>
+			<a class="download-btn" href="math.html">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+				a few about mathematik
+			</a>
+			<p><p>
+			  <a class="download-btn" href="delphi7.html">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+				informatik (for example delphi 7)
+			</a>
+			<a class="download-btn" href="gfson.html">
+				
+				notes
+			</a>
+			<p><p>
+			<a class="download-btn" href="indx.html">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+				google
+				
+			</a>
+			<p><p>
+			<a class="download-btn" href="https://mail.google.com/mail/u/0/?tab=rm#inbox">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+			 e-mail
+				
+			</a>
+			<p>
+			<a class="download-btn" href="code.org.html">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g data-name="Layer 2"><g data-name="play-circle"><rect width="24" height="24" opacity="0"/><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 18a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"/><path d="M12.34 7.45a1.7 1.7 0 0 0-1.85-.3 1.6 1.6 0 0 0-1 1.48v6.74a1.6 1.6 0 0 0 1 1.48 1.68 1.68 0 0 0 .69.15 1.74 1.74 0 0 0 1.16-.45L16 13.18a1.6 1.6 0 0 0 0-2.36zm-.84 7.15V9.4l2.81 2.6z"/></g></g></svg>
+			 learn more and more
+			</a>
+		</main>
+		<aside>
+			<div class="md-iphone-5 md-white-device md-glare">
+				<div class="md-body">
+					<div class="md-buttons"></div>
+					<div class="md-front-camera"></div>
+					<div class="md-top-speaker"></div>
+
+					<div class="md-screen">
+						<!--
+							
+							INSERT YOUR CONTENT HERE
+							
+							The HTML content inside this div will render
+							inside the screen of the iPhone.
+							
+							(You can remove my 'A' logo from below, it's just
+							an example)
+							
+						-->
+						<img style="display: block; width: 45%; margin: 45% auto 0; filter: drop-shadow(0 1px 5px #010101);" src="https://arturs.site/assets/img/logo-small/orange.png" />
+					</div>
+
+					<button class="md-home-button"></button>
+				</div>
+			</div>
+		</aside>
+	</body>
+</html>
